@@ -47,7 +47,7 @@ The accuracy score is a tool to measure the performance of a model. It is calcul
 
 ### SMOTEENN Combination
 
-![SMOTEENN_Combination_Results.png](Resources/SMOTEENN_Combination_Results_Results.png)
+![SMOTEENN_Combination_Results.png](Resources/SMOTEENN_Combination_Results.png)
 
 * Balanced Accuracy Score is 0.644711676499736
 * Precision Score for High-Risk is 0.01
